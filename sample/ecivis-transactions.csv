@@ -1,0 +1,4 @@
+extGrantID,extGrantName,extProjectID,extProjectName,transID,transName,transPostDate,transPerfPeriodStartDate,transPerfPeriodEndDate,accountNumber,dollarAmount,dollarClass,dollarTransNumber
+grant0001,Grant 0001,project0001,Project 0001,100001,Payroll Distribution,2016-06-30,,,6000210,2500.00,101,,
+grant0001,Grant 0001,project0001,Project 0001,100002,Payroll Distribution,2016-07-31,,,6000210,2525.00,101,,
+
